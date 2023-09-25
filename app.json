@@ -1,0 +1,9 @@
+{
+"name": "Rpg Bot",
+    "description": "Telegram Rpg Bot ",
+    "logo": "https://graph.org/file/2c49e7e7cf87e13a4ef33.jpg",
+    "keywords": ["Rpg Bot"],    
+    "repository": "https://github.com/Darklightning2008/RPG",
+  "env" : {
+    
+      
